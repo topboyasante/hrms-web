@@ -1,0 +1,6 @@
+/* styles for the job listings */
+.listing ul{
+	list-style-type: disc;
+	display: inline-block;
+	margin-left: 30px !important;
+}
