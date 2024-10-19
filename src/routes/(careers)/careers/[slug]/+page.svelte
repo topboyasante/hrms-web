@@ -18,7 +18,7 @@
 </svelte:head>
 
 <section class="w-full h-full">
-	<div class="max-w-screen-md mx-auto py-12 px-6 space-y-5">
+	<div class="max-w-screen-md mx-auto py-24 px-6 space-y-5">
 		<div>
 			<h3 class="text-lg md:text-xl lg:text-2xl font-bold tracking-tight text-primary-base">
 				{company.company_name}
